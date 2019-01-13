@@ -1,5 +1,5 @@
 function helloWorld() {
-    return 'First Commit #1';
+    return 'Second Commit #2';
 }
 
 module.exports = helloWorld;
